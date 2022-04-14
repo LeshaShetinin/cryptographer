@@ -1,0 +1,14 @@
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\bin\Debug\netcoreapp3.1\Shifr.exe
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\bin\Debug\netcoreapp3.1\Shifr.deps.json
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\bin\Debug\netcoreapp3.1\Shifr.runtimeconfig.json
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\bin\Debug\netcoreapp3.1\Shifr.runtimeconfig.dev.json
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\bin\Debug\netcoreapp3.1\Shifr.dll
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\bin\Debug\netcoreapp3.1\Shifr.pdb
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.csproj.AssemblyReference.cache
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.AssemblyInfoInputs.cache
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.AssemblyInfo.cs
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.csproj.CoreCompileInputs.cache
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.dll
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.pdb
+C:\Users\Kangarion\Desktop\123\1\Shifr\Shifr\obj\Debug\netcoreapp3.1\Shifr.genruntimeconfig.cache
