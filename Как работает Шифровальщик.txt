@@ -1,0 +1,4 @@
+В файл Shifr.txt, в папке ShifrText , записывается текст, после чего в visual studio  
+запускаем программу и указываем шаг 
+или запускаем cryptographer/Shifr/Shifr/bin/Debug/netcoreapp3.1/Shifr.exe и так же указываем шаг шифрования. 
+После чего зашифрованный текст будет находится в файле ZaShifr.txt в папке ShifrText.
